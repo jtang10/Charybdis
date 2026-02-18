@@ -1,0 +1,5 @@
+# CMake build directory
+build/
+
+# Claude Code internal state (worktrees, session data)
+.claude/
